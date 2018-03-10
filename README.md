@@ -20,6 +20,24 @@ This activity Displays the current user's name and allows you to transfer amount
 
 ![transactions](https://user-images.githubusercontent.com/22303069/37236010-8d3071f4-23fb-11e8-8026-884586e6f7ca.png)
 
+# Future Changes
+
+
+#### For future changes, I would like to : 
+        * To display the last transactions for the current user and add a swipe to delete user feature for each card.
+        * Display the negative amount in each transaction in red and the rest in green.
+        * Show the total amount in the current user's account.
+        
+        
+# Reflection
+
+I took time to understand how to use the API and how to get the results that were asked. I did my best to implement all endpoints and succesfully transfer "amounts" between user's. There are alot of things I want to improve and I'm excited to peer program the rest of the requirements
+
+
+
+
+
+
 
 
 
