@@ -24,6 +24,7 @@ This activity Displays the current user's name and allows you to transfer amount
 
 
 #### For future changes, I would like to : 
+        * Improve user experience and flow through App 
         * To display the last transactions for the current user and add a swipe to delete user feature for each card.
         * Display the negative amount in each transaction in red and the rest in green.
         * Show the total amount in the current user's account.
