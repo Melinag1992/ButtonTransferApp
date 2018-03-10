@@ -8,9 +8,9 @@ Displays a list of users created by a specific candidate. The cardView contains 
 ![mainactivity](https://user-images.githubusercontent.com/22303069/37234710-3dceec4e-23f1-11e8-8d63-9d692f30993c.png)
 
 
-# add a new user
+# Add a new user
 
-Allows you to enter the new user information. Once the "Add" button is clicked it will take you back to the List of user's with the updated information. 
+You can add a new user by entering the new user information. Once the "Add" button is clicked it will take you back to the List of user's with the updated list. 
 
 ![add person](https://user-images.githubusercontent.com/22303069/37234714-441544ea-23f1-11e8-9059-c59d32e6acf4.png)
 
