@@ -3,6 +3,7 @@ package com.example.melg.buttonapp.controller;
 import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
 
 import com.example.melg.buttonapp.R;
@@ -21,7 +22,7 @@ public class CandidateViewHolder extends RecyclerView.ViewHolder {
     private TextView name;
     private TextView email;
     private TextView id;
-    private View linearLayout;
+    private Button startTransfer;
     private String userName;
     private int userId;
 
@@ -41,7 +42,7 @@ public class CandidateViewHolder extends RecyclerView.ViewHolder {
 
 
 
-        linearLayout.setOnClickListener(new View.OnClickListener() {
+        startTransfer.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
@@ -60,6 +61,6 @@ public class CandidateViewHolder extends RecyclerView.ViewHolder {
         email = itemView.findViewById(R.id.email);
         id = itemView.findViewById(R.id.user_id);
 
-        linearLayout = itemView.findViewById(R.id.mainact_layout);
+        startTransfer = itemView.findViewById(R.id.mainact_layout);
     }
 }

@@ -12,7 +12,7 @@
     app:cardCornerRadius="2dp"
     android:background="@android:color/white"
     app:cardUseCompatPadding="true"
-    android:id="@+id/mainact_layout"
+
     android:padding="8dp"
     >
 
@@ -53,9 +53,10 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
             <Button
-                android:id="@+id/start_transfer"
+
                 android:textColor="@android:color/white"
                 android:text="Start Transfer"
+                android:id="@+id/mainact_layout"
                 android:background="@drawable/rounded"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />

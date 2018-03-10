@@ -28,7 +28,7 @@ public class TransferViewHolder extends RecyclerView.ViewHolder {
     public void onBind(Candidate candidate) {
 
         amountPassed = candidate.getAmount(); // getting each individual transaction in recyclerview itemView
-        amount.setText(amountPassed); //sets amount to itemView
+        amount.setText("$ " + amountPassed); //sets amount to itemView
 
     }
 }
