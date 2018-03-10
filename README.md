@@ -18,7 +18,7 @@ You can add a new user by entering the new user information. Once the "Add" butt
 
 This activity Displays the current user's name and allows you to transfer amounts from current user displayed to another user. There is a dropdown list that shows all available user's to transfer "amounts" too.
 
-![trasnfer](https://user-images.githubusercontent.com/22303069/37234723-53737506-23f1-11e8-846c-b10bb26f9e62.png)
+![transactions](https://user-images.githubusercontent.com/22303069/37236010-8d3071f4-23fb-11e8-8026-884586e6f7ca.png)
 
 
 
