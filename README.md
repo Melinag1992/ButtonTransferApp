@@ -3,7 +3,7 @@ A simple Android app that uses a REST-ful API. The app allows "amount" transfers
 
 # MainActivity 
 
-Displays a list of users created by a specific candidate. The cardView contains the name, email and ID of each user. When you click the start Transfer button it brings to another Activity. When this button is clicked the User's information (ID and Name) is passed to the Transfer Detail activity. This page also has a option menu button , when clicked it opens to a new activity and allows you to enter information about the new user.
+Displays a list of users created by a specific candidate Each user displays the name, email and it's corresponding ID . When you click the start Transfer button it brings you to a screen that allows you to Transfer amounts between user's. User's information (ID and Name) is passed to the Transfer Detail activity. This page also has a add user button , when clicked it opens to add allows you to enter infroamtion and add a new contact.
 
 ![mainactivity](https://user-images.githubusercontent.com/22303069/37234710-3dceec4e-23f1-11e8-8d63-9d692f30993c.png)
 
